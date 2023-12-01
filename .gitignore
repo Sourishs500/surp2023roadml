@@ -1,0 +1,5 @@
+audio/
+photo/
+coordValues.csv
+*.pth
+sensorData.txt
